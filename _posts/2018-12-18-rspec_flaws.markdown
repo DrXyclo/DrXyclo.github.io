@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rspec flaws"
-date:       2018-12-18 05:03:30 +0000
+date:       2018-12-18 00:03:30 -0500
 permalink:  rspec_flaws
 ---
 
